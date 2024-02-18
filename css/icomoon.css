@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-shield:before {
+  content: "\e9b4";
+}
 .icon-times:before {
   content: "\e930";
 }
